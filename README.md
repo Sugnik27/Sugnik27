@@ -1,4 +1,4 @@
-<img src="https://github.com/Sugnik27/Sugnik-Mondal/blob/main/vidd.gif" width="100%"><br>
+<img src="https://github.com/Sugnik27/Sugnik27/blob/main/vidd.gif" width="100%"><br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sugnik27&label=Profile%20views&color=0e75b6&style=flat" alt="Sugnik27" /> </p>
 
